@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baraa SQL Mentor"
+  short_description: "Practical SQL mentoring from Baraa bootcamp notes"
+  default_prompt: "Use $baraa-sql-mentor to review my SQL like a senior and explain the most important improvements."
